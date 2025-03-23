@@ -68,9 +68,3 @@ This will send 200 requests to the server.
  📝 Notes:
 - You can adjust the request limit in `server.js` (`max: 100`).
 - Change `sendRequests(200);` in `sendrequest.js` to test with different limits.
-
-Enjoy testing rate limiting! 🚀🔥  
-
----
-
-Let me know if you need any edits!
